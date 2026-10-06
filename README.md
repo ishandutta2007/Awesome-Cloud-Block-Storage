@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Block-Storage"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Block-Storage?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Block-Storage"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Block-Storage?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Block-Storage/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Block-Storage?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Block-Storage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Block-Storage?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -71,7 +71,7 @@ The cloud block storage market features both hyperscaler native volumes and ente
 
 Curated list of open-source block storage systems, distributed software-defined storage engines, and Kubernetes CSI drivers.
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Ceph](https://github.com/ceph/ceph)** [![Stars](https://img.shields.io/github/stars/ceph/ceph?style=social&color=white)](https://github.com/ceph/ceph/stargazers)  
   **The most widely deployed open-source distributed storage system**, LGPL-2.1 / GPL-2.0 / BSD-3-Clause licensed. **14,116+ stars**. **Unified object, block, and file storage** from a single cluster built on commodity hardware. **RADOS** (Reliable Autonomic Distributed Object Store) is the foundation. **RBD** (RADOS Block Device) provides block storage for VMs, databases, and Kubernetes via the **Ceph CSI driver**. **Tentacle (v20)** introduced fast erasure coding for block workloads and an **NVMe over TCP gateway** for SAN-style access over Ethernet. **Rook** (CNCF graduated) is the preferred Kubernetes operator. **10-petabyte all-flash cluster sustaining a terabyte per second** demonstrated. 🐙
@@ -120,7 +120,7 @@ Contributions are welcome! Follow these steps to submit new cloud block storage 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
